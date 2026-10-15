@@ -84,7 +84,7 @@
   <tr>
       <td><img src="https://github.com/user-attachments/assets/91d88a98-5387-401c-b8a9-d09b122ba681" width="310"></td>
       <td><img src="https://github.com/user-attachments/assets/7a608c0d-8e12-4b77-92cd-b785c5572f2c" width="310"></td>
-      <td><img src="https://github.com/user-attachments/assets/f2e92e0b-6d99-48fc-a879-9c13152a93b1" width="310"></td>
+      <td><img src="https://github.com/user-attachments/assets/276ab27a-3880-4847-8aec-3ed5f77949bc" width="310"></td>
   </tr>
 </table>
 
