@@ -91,6 +91,9 @@
       <td><img src="https://github.com/user-attachments/assets/af3b6ab9-25ac-4ca8-8c6c-c47a60859b98" width="310"></td>
       <td><img src="https://github.com/user-attachments/assets/2db20ce5-89bf-4c25-983b-dc84b51de2ae" width="310"></td>
   </tr>
+  <tr>
+      <td><img src="https://github.com/user-attachments/assets/bf0afe49-deac-4c8d-8099-8a431e0fe8c8" width="310"></td>
+  </tr>
 </table>
 
 
@@ -129,6 +132,7 @@
 | BTMOB RAT   | Android RAT evolved from SpySolr, spread through phishing sites posing as streaming and mining platforms. | 1. Track device location.<br>2. Access data from the local system. | [View](https://quark-engine.readthedocs.io/en/latest/malware_report.html#btmob-rat-malware-family-analysis-report) |
 | BrasDex     | Brazilian ATS banking malware posing as Android settings and banking apps. | 1. Track device location.<br>2. Inject input through Accessibility actions.<br>3. Hide the app icon from the launcher. | [View](https://quark-engine.readthedocs.io/en/latest/malware_report.html#brasdex-malware-family-analysis-report) |
 | CapraRAT    | Android RAT used by APT36 (Transparent Tribe), delivered through trojanized messaging apps. | 1. Track device location.<br>2. Discover network configuration.<br>3. Gather SMS messages. | [View](https://quark-engine.readthedocs.io/en/latest/malware_report.html#caprarat-malware-family-analysis-report) |
+| FurBall     | Android spyware of the Domestic Kitten (APT-C-50) campaign, built on the KidLogger source code. | 1. Capture audio.<br>2. Track device location.<br>3. Read clipboard data.<br>4. Gather SMS messages. | [View](https://quark-engine.readthedocs.io/en/latest/malware_report.html#furball-malware-family-analysis-report) |
 
 ## Quick Start
 
